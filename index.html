@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>RaJnish_CRYPTO STACKER 🚀</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar">
+    <div class="logo">RaJnish_CRYPTO STACKER</div>
+    <ul class="nav-links">
+      <li><a href="#market">Market</a></li>
+      <li><a href="#prediction">Prediction</a></li>
+      <li><a href="#about">About</a></li>
+    </ul>
+    <button id="themeToggle" class="theme-toggle">🌙</button>
+  </nav>
+
+  <!-- Background Particles -->
+  <canvas id="particles"></canvas>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <h1 id="typing-text"></h1>
+    <p>Stay ahead of the crypto market 🚀</p>
+    <a href="#market" class="btn-primary">Explore Market</a>
+  </section>
+
+  <!-- Market Section -->
+  <section id="market">
+    <h2>Live Crypto Market</h2>
+    <div class="search-container">
+      <input type="text" id="searchInput" placeholder="Search for coins... 🔍">
+    </div>
+    <div id="spinner" class="spinner hidden">Loading...</div>
+    <div id="crypto-list" class="card-grid"></div>
+  </section>
+
+  <!-- Prediction Section -->
+  <section id="prediction">
+    <h2>Buy / Sell / Hold Analysis 📈</h2>
+    <div id="prediction-section" class="prediction-card hidden">
+      <h3>Market Prediction</h3>
+      <div id="recommendation" class="recommendation-text"></div>
+      <div id="reason" class="reason-text"></div>
+      <div class="confidence-bar">
+        <div id="confidence-fill"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- About Section -->
+  <section id="about">
+    <h2>About</h2>
+    <p>RJ_CRYPTO STACKER brings you real-time crypto prices, AI-powered market predictions, and a beautiful trading experience. Built for traders, by enthusiasts.</p>
+    <p><small>All rights reserved © 2025 RJ_CRYPTO STACKER</small></p>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div class="footer-content">
+      <p>Privacy Policy | Terms of Service</p>
+      <div class="socials">
+        <a href="#">Instagram @ kumar._rajnish_</a> | 
+        <a href="#">Twitter</a> | 
+        <a href="#">LinkedIn</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="particles.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
