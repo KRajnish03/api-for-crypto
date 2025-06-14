@@ -74,7 +74,8 @@ No API key required. Free & open-source.
 
 ## 📸 Screenshot
 
-![Dashboard Preview](screenshot.png)
+![Uploading Screenshot 2025-06-12 122911.png…]()
+
 
 ---
 
