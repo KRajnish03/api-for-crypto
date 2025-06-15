@@ -85,9 +85,6 @@ No API key required. Free & open-source.
 
 ---
 
-## 📸 Screenshot
-
-![Uploading Screenshot 2025-06-12 122911.png…]()
 
 
 ---
@@ -101,3 +98,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🙌 Author
 
 Made with ❤️ by **Kumar Rajnish (Vicky)**
+
+## 📸 Screenshot
+![Crypto Screenshot](assets/crypto.png)
+
