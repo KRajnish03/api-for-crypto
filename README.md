@@ -1,4 +1,17 @@
+       API INTIGERATION
+COMPANY: CODTECH IT SOLUTIONS
 
+NAME: Rajninsh Kumar
+
+INTERN ID: CT08DK929
+
+DOMAIN: FULL STACK WEB DEVELOPMENT
+
+BATCH DURATION: April 25th, 2025 to June 25th, 2025
+
+MENTOR NAME : NEELA SANTHOSH KUMAR
+
+DESCRIPTION OF TASK PERFORMED :
 # 🚀 Crypto Stacking Dashboard
 
 A sleek, real-time cryptocurrency dashboard built with HTML, CSS, and JavaScript. This app displays live crypto prices, allows users to search for coins, predicts future values, and includes stunning UI features like dark mode, animated particles, and more.
